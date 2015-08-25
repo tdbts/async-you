@@ -1,2 +1,2 @@
 # async-you
-My So
+My solutions to nodeschool's async-you command line tutorial. 
